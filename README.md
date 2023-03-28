@@ -77,4 +77,4 @@ You will need to clone the repository of the project from Github. This will cont
 git clone https://github.com/Adooz/printf.git
 After cloning the repository you will have a folder called printf. In here there will be several files that allow the function to work.
 
-Submitted by Kingsley Ndonake and Victor Udora
+Submitted by Okunsanmi Faith and Oluchukwu Olumor
